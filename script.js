@@ -6,7 +6,6 @@ let audios = [
 	"tada",
 	"victory",
 	"wrong",
-	"stop"
 ]
 
 let activeAudio = null;
