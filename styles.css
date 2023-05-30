@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:violet;
+	padding:50px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:15px;
+}
+
+.container button{
+	background-color:purple;
+	padding:8px 15px;
+	border:none;
+	border-radius:2px;
+	color:white;
+	cursor:pointer;
+}
