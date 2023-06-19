@@ -10,7 +10,7 @@ let audios = [
 
 let activeAudio = null;
 
-const button = document.getElementsByTagName("button");
+const button = document.getElementsByClassName(".btn");
 
 function playAudio(){
     stopAudio();
